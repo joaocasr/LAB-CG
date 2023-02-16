@@ -1,1 +1,1 @@
-# LAB-CG
+# LAB-COMPUTAÇÃO GRÁFICA
